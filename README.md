@@ -14,3 +14,11 @@ https://www.youtube.com/user/igivurps
 
 His Original ModShowcase
 https://www.youtube.com/watch?v=MAagD9UkHDw&t=9s
+
+Download Process:
+
+You can download from Github Or Nexus Mods. The Nexus Mod page goes over how to install it incase you dont know how.
+
+Nexus Mod Link:
+
+https://www.nexusmods.com/borderlands2/mods/273
